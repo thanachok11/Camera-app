@@ -16,7 +16,9 @@
 
 นี่คือตัวอย่างรูปภาพที่ถ่ายจาก IPHONE ที่แสดงอินเทอร์เฟซและการโต้ตอบของแอป:
 
-<img src="assets/video/demo-app-camera.gif" alt="App Demo" width="250" />
+<img src="assets/img/IMG_4555.PNG" alt="App Demo" width="250" />
+<img src="assets/img/IMG_4556.PNG" alt="App Demo" width="250" />
+<img src="assets/img/IMG_4558.PNG" alt="App Demo" width="250" />
 
 
 ## 🛠️ เทคโนโลยีที่ใช้
